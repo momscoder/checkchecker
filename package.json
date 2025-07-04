@@ -1,0 +1,19 @@
+{
+  "name": "checkchecker",
+  "version": "1.0.0",
+  "description": "Получает данные магазинного чека по уи через api иицнс РБ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momscoder/checkchecker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momscoder/checkchecker/issues"
+  },
+  "homepage": "https://github.com/momscoder/checkchecker#readme"
+}
